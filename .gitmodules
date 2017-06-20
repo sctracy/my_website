@@ -1,3 +1,6 @@
 [submodule "public"]
 	path = public
 	url = https://github.com/csong5/chensong.github.io.git
+[submodule "chensong.github.io"]
+	path = chensong.github.io
+	url = https://github.com/sctracy/chensong.github.io.git
