@@ -12,31 +12,32 @@ weight = 1
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Cyber physical security",
+    "Wireless smarthealth",
+    "Biometrics",
+    "Human computer interaction"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "Ph.D. in Computer Science & Engineering"
+  institution = "The State University of New York at Buffalo"
+  year = "2014 - 2017"
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "M.Sc. in Electric Engineering"
+  institution = "The State University of New York at Buffalo"
+  year = "2012 - 2014"
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "B.Sc. in Optic Science & Engineering"
+  institution = "Fudan University"
+  year = "2006 - 2010"
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Chen Song is a Ph.D. student in the Department of Computer Science & Engineering at the State University of New York at Buffalo (SUNY UB), under the direction of Prof. Wenyao Xu at the Embedded Sensing and Computing (ESC) Lab. He earned his B.Sc. degree in Optic Science & Engineering from Fudan University. After graduation, he joined Shanghai Research Institute as an embedded system developer for two years. Then he earned his M.Sc. degree in Electric Engineering at SUNY UB from 2012-2014.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+His research focuses are security topics in Cyber-physical-system, wireless smarthealth, biometric and human-computer-interaction related fields.
