@@ -1,6 +1,6 @@
 baseurl = "https://sctracy.github.io/chensong.github.io/"  # End your URL with a `/` trailing slash.
 title = "Academic"
-copyright = "&copy; 2016 Your Name"
+copyright = "&copy; 2016 Chen Song"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -24,7 +24,7 @@ defaultContentLanguageInSubdir = false
   organization = "The State University of New York at Buffalo (SUNY UB)"
   organization_url = "http://www.buffalo.edu/"
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "1.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "3.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "csong5@buffalo.edu"
   address = "Davis Hall, Lab340, SUNY UB, Buffalo, USA"
   office_hours = ""
@@ -156,7 +156,7 @@ defaultContentLanguageInSubdir = false
 
 [[menu.main]]
   name = "Publications"
-  url = "#publications_selected"
+  url = "#publications1"
   weight = 2
 
 [[menu.main]]

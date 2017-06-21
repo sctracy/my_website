@@ -40,4 +40,4 @@ weight = 1
 
 Chen Song is a Ph.D. student in the Department of Computer Science & Engineering at the State University of New York at Buffalo (SUNY UB), under the direction of Prof. Wenyao Xu at the Embedded Sensing and Computing (ESC) Lab. He earned his B.Sc. degree in Optic Science & Engineering from Fudan University. After graduation, he joined Shanghai Research Institute as an embedded system developer for two years. Then he earned his M.Sc. degree in Electric Engineering at SUNY UB from 2012-2014.
 
-His research focuses are security topics in Cyber-physical-system, wireless smarthealth, biometric and human-computer-interaction related fields.
+His research focuses are security topics in Cyber physical security, wireless smarthealth, biometric and human-computer-interaction related fields.
