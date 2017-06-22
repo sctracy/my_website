@@ -6,7 +6,7 @@ date = "2016-04-20T00:00:00"
 draft = false
 
 title = "Conference Publications"
-subtitle = ""
+subtitle = "For conference"
 widget = "publications"
 
 # Order that this section will appear in.
@@ -19,4 +19,7 @@ count = 10
 detailed_list = false
 
 +++
+
+This is the Conference Paper:
+
 
