@@ -1,16 +1,16 @@
 +++
 # Recent Publications widget.
-# This widget displays recent publications from `content/publication/`.
+# This widget displays recent publications from `content/publication2/`.
 
 date = "2016-04-20T00:00:00"
 draft = false
 
-title = "Journal Publications"
+title = "Conference Publications"
 subtitle = ""
 widget = "publications2"
 
 # Order that this section will appear in.
-weight = 20
+weight = 10
 
 # Number of publications to list.
 count = 10
@@ -19,4 +19,6 @@ count = 10
 detailed_list = false
 
 +++
+
+
 
