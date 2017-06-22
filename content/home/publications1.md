@@ -20,6 +20,5 @@ detailed_list = false
 
 +++
 
-This is the Conference Paper:
 
 
